@@ -1,0 +1,8 @@
+Unix commands
+mkdir <dir name> : to make/create directory
+ls : To list the members of the current directory
+ls -l : List all members in long format
+chmod -R 777 <dir name> : To change the mode of the directory
+
+git commands
+git status - Once you are in git folder, you can use this command to check the status of the folder.
